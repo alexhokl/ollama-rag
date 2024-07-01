@@ -1,0 +1,12 @@
+chromadb==0.5.3
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-core==0.2.10
+langchain-text-splitters==0.2.2
+langgraph==0.1.4
+unstructured==0.14.9
+unstructured-client==0.23.8
+unstructured-inference==0.7.36
+unstructured.pytesseract==0.3.12
+typer==0.12.3
+

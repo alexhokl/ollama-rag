@@ -1,0 +1,8 @@
+version: '3'
+
+tasks:
+
+  install:
+    desc: Intsall
+    cmd: pip install -r requirements.txt
+
